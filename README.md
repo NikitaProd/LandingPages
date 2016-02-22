@@ -1,12 +1,8 @@
 
-Landing Pages Test:
+Site ONE PAGE
 
+HTML / CSS / BOOTSTRAP - responsive
 
-One Page :
-
-
-
-
-
+JS / Jquery  (animate scroll)
 
 

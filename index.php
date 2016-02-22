@@ -12,12 +12,15 @@
     <link href="style.css" rel="stylesheet">
 
   </head>
+
+  <!-- --------------------------------------- -->
+
   <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
 
-    <div class="navbar navbar-default navbar-fixed-top">
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
       <div class="container">
         <div class="navbar-header page-scroll">
-              <button type="button" class="navbar-toggle" data-toggle="collapse" aria-expanded="false" aria-controls="navbar">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
                 <span class="sr-only">Navigation</span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
@@ -28,10 +31,10 @@
        </div>
        <div style="height: 1px;" aria-expanded="false" id="navbar" class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
-                <li class="page-scroll"><a href="#home">Home</a></li>
-                <li class="page-scroll"><a href="#about">About</a></li>
-                <li class="page-scroll"><a href="#servises">Servises</a></li>
-                <li class="page-scroll"><a href="#contact">Contact</a></li>
+                <li class=".page-scroll"><a href="#home">Home</a></li>
+                <li class=".page-scroll"><a href="#about">About</a></li>
+                <li class=".page-scroll"><a href="#servises">Servises</a></li>
+                <li class=".page-scroll"><a href="#contact">Contact</a></li>
               </ul>
        </div><!--/.nav-collapse -->
   </div>
@@ -61,15 +64,33 @@
 <h1>CONTACTEZ-NOUS !</h1>
 </section>
 
+<!-- FOOTER-------------------->
 
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="js/bootstrap.min.js"></script>
-    <script src="scroll-nav.js"></script>
+<footer>
 
-    <!-- <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
-    <script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script> -->
+<!-- Container Copyright-------------------->
+
+<div class="Copyright">
+  <div class="c">
+  <p>Copyright NG</p>
+  </div>
+</div>
+
+</footer>
+
+<!-- FOOTER END-------------------->
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="js/bootstrap.min.js"></script>
+
+<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+<script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+
+<!-- SCRIPT SCROLL ANIMATE------------------>
+
+<script src="scroll-nav.js"></script>
 
   </body>
 </html>

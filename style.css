@@ -129,6 +129,7 @@ html, body {
   overflow: hidden;
   padding-top: 11%;
   background-color: #92b9b9;
+  opacity: 0.5;
   text-align: center;
 }
 
@@ -139,6 +140,29 @@ html, body {
   color: red;
   text-transform: uppercase;
 }
+
+
+/*-- FOOTER --------------------*/
+
+.Copyright{
+  background-color:#66ccff;
+  opacity: 0.8;
+}
+
+.c{
+  text-align: center;
+  color: blue;
+  padding: 2%;
+  height: 10vh;
+  width: 100%;
+  font-size: 10px;
+  color: #FFF;
+}
+
+/*-- FOOTER END--------------------*/
+
+/*-- THE END--------------------*/
+
 
 
 
