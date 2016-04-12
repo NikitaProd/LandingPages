@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -51,6 +51,9 @@
 </section>
 
 
+<!-- -------------------->
+
+
 <section id="about" class="about-selection">
 <h1>A PROPOS</h1>
 </section>
@@ -87,6 +90,7 @@
 
 <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
 <script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+
 
 <!-- SCRIPT SCROLL ANIMATE------------------>
 
