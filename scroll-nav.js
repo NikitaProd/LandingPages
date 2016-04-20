@@ -1,4 +1,4 @@
-
+// <!--  SCROLL ------------------>
 
 // <!-- SCRIPT SCROLL ANIMATE------------------>
 
@@ -10,8 +10,6 @@ $(document).ready(function() {
     return false;
   });
 });
-
-
 
 
 // //jQuery to collapse the navbar on scroll
